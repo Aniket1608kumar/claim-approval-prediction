@@ -1,4 +1,4 @@
-# 🏥 Claim Approval Prediction (Machine Learning Project)
+# Claim Approval Prediction (Machine Learning Project)
 
 ## Project Overview
 This project predicts whether a healthcare insurance claim will be approved or denied using Machine Learning.
@@ -28,3 +28,31 @@ Build a classification model to predict **ClaimStatus (Approved / Denied)** base
 
 ---
 
+---
+
+## Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+---
+
+## Key Learnings
+- Importance of feature selection
+- Model performance depends on data quality
+- Scaling improves model convergence
+- Real-world datasets are not always predictive
+
+---
+
+## Future Improvements
+- Feature engineering
+- Try advanced models (Random Forest, XGBoost)
+- Hyperparameter tuning
+
+---
+
+## Author
+Aniket Kumar
